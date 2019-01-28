@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<imdb_movies>
+
+<movie>
+    <name><b><u>Glass</u></b></name>
+    <img src="https://m.media-amazon.com/images/M/MV5BMTU0NjQ4MjIyOV5BMl5BanBnXkFtZTgwNTg5ODU5NTM@._V1_SX1777_CR0,0,1777,744_AL_.jpg">
+    <br>
+    <actors>
+    Actors:
+        <ul>
+            <li>James McAvoy</li>
+            <li>Bruce Willis</li>
+            <li>Samuel L. Jackson</li>
+        </ul>
+    </actors>
+    <description>
+   Security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, 
+   a disturbed man who has twenty-four personalities.
+   </description>
+</movie>
+
+<br>
+<br>
+
+<movie>
+    <name><b><u>Aquaman</u></b></name>
+    <br>
+    <img src="https://m.media-amazon.com/images/M/MV5BMjE2MDg1OTg5NF5BMl5BanBnXkFtZTgwMTIwMTg0NjM@._V1_SX1777_CR0,0,1777,999_AL_.jpg">
+    <actors>
+    Actors:
+        <ul>
+            <li>Jason Momoa</li>
+            <li>Amber Heard</li>
+            <li>Willem Dafoe</li>
+    </ul>
+    </actors>
+    <description>
+    Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, 
+    goes on a quest to prevent a war between the worlds of ocean and land.
+    <br>
+    Arthur Curry, half human half from Atlantis, goes on a trip of a lifetime. 
+   Not only does this adventure compel him to come to terms with his real identity, but it also 
+   forces him to discover whether he is entirely worthy of fulfilling his own destiny: becoming a 
+   king. Written by Domingo Alvarez
+    </description>
+</movie>
+
+<br>
+<br>
+
+<movie>
+    <name><b><u>I Am Legend</u></b></name>
+    <br>
+    <img src="https://m.media-amazon.com/images/M/MV5BMTg5NTk5MDQ1Ml5BMl5BanBnXkFtZTYwNjgzNTg2._V1_.jpg"> 
+    <br>
+    <actors>
+    Actors:
+        <ul>
+            <li>Will Smith</li>
+            <li>Alice Barge</li>
+            <li>Charlie Tahan</li>
+        </ul>
+    </actors>
+    <description>
+    Years after a plague kills most of humanity and transforms the rest into monsters, 
+    the sole survivor in New York City struggles valiantly to find a cure.
+    <br>
+    Robert Neville is a scientist who was unable to stop the spread of the terrible virus that 
+    was incurable and man-made. Immune, Neville is now the last human survivor in what is left of 
+    New York City and perhaps the world. For three years, Neville has faithfully sent out daily 
+    radio messages, desperate to find any other survivors who might be out there. 
+    But he is not alone. Mutant victims of the plague -- The Infected -- lurk in the shadows... 
+    watching Neville's every move... waiting for him to make a fatal mistake. Perhaps mankind's last, 
+    best hope, Neville is driven by only one remaining mission: to find a way to reverse the effects 
+    of the virus using his own immune blood. But he knows he is outnumbered... and quickly running out 
+    of time. Written by Warner Bros. Pictures
+    </description>
+</movie>
+
+</imdb_movies>
